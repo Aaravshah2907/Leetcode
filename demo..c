@@ -1,11 +1,3 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
- */
-
 struct ListNode *makeNode(int num)
 {
     struct ListNode *newNode =
